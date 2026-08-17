@@ -4,7 +4,7 @@ A reusable Codex Skill for defining, applying, and checking a consistent video s
 
 Instead of hard-coding one audience, language, voice, palette, or animation system, this project turns those decisions into a portable `style-profile.md`. Use it to keep a series consistent, match a reference video, package a successful look as a preset, or diagnose why a new video no longer feels like the rest.
 
-![Example preset preview](../video-style-skill/presets/college-social/approved-reference-contact-sheet.jpg)
+![Example preset preview](video-style-skill/presets/college-social/approved-reference-contact-sheet.jpg)
 
 ## What it controls
 
