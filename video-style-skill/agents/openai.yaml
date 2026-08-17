@@ -1,0 +1,4 @@
+interface:
+  display_name: "Video Style Skill"
+  short_description: "定义并复用视频的声音、封面、字幕、视觉系统与动画风格"
+  default_prompt: "Use $video-style-skill to define a reusable style profile and create a video that follows it consistently."
