@@ -1,4 +1,0 @@
-interface:
-  display_name: "大学生社会化视频风格"
-  short_description: "复用已确认的竖屏教程配音、封面、贴纸视觉与柔和转场"
-  default_prompt: "Use $college-social-video-style to create a matching Chinese vertical social explainer video."
